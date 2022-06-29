@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/shortening-agent/static/css/main.073c9b0a.css",
-    "main.js": "/shortening-agent/static/js/main.660ba235.js",
+    "main.js": "/shortening-agent/static/js/main.a6be9ecb.js",
     "static/js/787.451fbc8e.chunk.js": "/shortening-agent/static/js/787.451fbc8e.chunk.js",
     "index.html": "/shortening-agent/index.html",
     "main.073c9b0a.css.map": "/shortening-agent/static/css/main.073c9b0a.css.map",
-    "main.660ba235.js.map": "/shortening-agent/static/js/main.660ba235.js.map",
+    "main.a6be9ecb.js.map": "/shortening-agent/static/js/main.a6be9ecb.js.map",
     "787.451fbc8e.chunk.js.map": "/shortening-agent/static/js/787.451fbc8e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.660ba235.js"
+    "static/js/main.a6be9ecb.js"
   ]
 }
